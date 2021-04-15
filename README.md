@@ -1,4 +1,4 @@
-# Project: Data analysis and Data Scientist Job Positions Across New York, Seattle, and San Francisco.
+# Project: Data analyst and Data Scientist Job Positions Across New York, Seattle, and San Francisco.
 
 In this project we aim to analyze all the Data Analyst and Data scientist job openings that companies are offering in three different cities: New York, San Francisco and Seattle. Our assumption is that New York and San Francisco offer more job positions than Seattle since the first two cities are famous for being the location of the majority of tech companies while Seattle's economy is based more on manufacturing companies.
 
